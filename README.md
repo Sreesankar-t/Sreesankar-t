@@ -5,7 +5,7 @@ I'm Sreesankar, a Committed web developer who loves building awesome websites an
 - 🔭 I’m currently working on improving my web development skills.
 - 🌱 currently exploring new technologies
 - 👯 I’m looking to collaborate on interesting web development projects.
-- 💬 Ask me about HTML, CSS, JavaScript, and React.
+- 💬 Ask me about HTML, CSS, JavaScript,Vue and React.
 - 📫 How to reach me: mailto:sreeshankerthekkan@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy playing the guitar in my free time!
